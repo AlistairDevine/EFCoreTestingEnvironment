@@ -1,2 +1,2 @@
 # EFCoreTestingEnvironment
- Entity Framework database testing.
+ A testing environment about the development of Entity Framework Core.
